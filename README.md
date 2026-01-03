@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Built%20With-Three.js-blue?style=for-the-badge" alt="Built with Three.js">
 </p>
 
-# Interactive Particle System
+# ⭐ Interactive Particle System
 
 A single-file, interactive particle visualization built with **Three.js**, **MediaPipe Hands**, and **Tailwind CSS**. The scene renders a high-density particle field that can morph between preset shapes (Heart, Saturn, Flower, DNA Helix, Fireworks) and responds to **real-time hand gestures** using your webcam.
 
