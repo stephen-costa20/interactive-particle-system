@@ -4,13 +4,13 @@ A single-file, interactive particle visualization built with **Three.js**, **Med
 
 > Designed as a visual/interaction demo: a lightweight, framework-free “AI + GPU” experience you can run locally by opening one HTML file.
 
----
+
 
 ## Preview
 
 ![Preview](assets/preview.gif)
 
----
+
 
 ## Features
 
@@ -50,7 +50,7 @@ A single-file, interactive particle visualization built with **Three.js**, **Med
   - Three.js
   - MediaPipe Hands + camera utils
 
----
+
 
 ## Tech Stack
 
@@ -59,7 +59,7 @@ A single-file, interactive particle visualization built with **Three.js**, **Med
 - **Tailwind CSS** (UI styling)
 - **Vanilla JavaScript** (no frameworks)
 
----
+
 
 ## Running Locally
 
