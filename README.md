@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://stephen-costa20.github.io/interactive-particle-system/"><img src="https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-brightgreen?style=for-the-badge" alt="Live Demo"></a>
   <a href="https://github.com/stephen-costa20/interactive-particle-system/blob/main/LICENSE"><img src="https://img.shields.io/github/license/stephen-costa20/interactive-particle-system?style=for-the-badge" alt="License"></a>
   <a href="https://github.com/stephen-costa20/interactive-particle-system/commits/main"><img src="https://img.shields.io/github/last-commit/stephen-costa20/interactive-particle-system?style=for-the-badge" alt="Last Commit"></a>
   <img src="https://img.shields.io/badge/Built%20With-Three.js-blue?style=for-the-badge" alt="Built with Three.js">
