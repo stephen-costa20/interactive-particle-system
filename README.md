@@ -17,7 +17,7 @@ A single-file, interactive particle visualization built with **Three.js**, **Med
 ![Preview](assets/preview.gif)
 
 
-Can also view a live preview by clicking the link here: [Click Here](https://stephen-costa20.github.io/interactive-particle-system/)
+Can also view a live preview by clicking the link here: [Click Here](https://stephen-costa20.github.io/ParticlePlayground/)
 
 ## Features
 
